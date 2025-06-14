@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name           Noteflight Tuplet Improver
 // @namespace      Unseeable's Noteflight Tools
-// @version        v1.0.0
+// @version        1.1.0
 // @description:en allows you to make tuplets of any size in Noteflight!
 // @description:fr vous permet de créer des groupes de notes de n'importe quelle taille dans Noteflight!
 // @description:de ermöglicht es Ihnen, in Noteflight Noten Gruppierung jeder Größe zu erstellen!
@@ -12,6 +12,8 @@
 // @match          *://www.noteflight.com/scores/view/*
 // @icon           https://www.google.com/s2/favicons?sz=32&domain=noteflight.com
 // @grant          unsafeWindow
+// @downloadURL    https://github.com/Unseeable8710/Noteflight-Tuplet-Improver/raw/refs/heads/main/src/NoteflightTupletImprover.user.js
+// @updateURL      https://github.com/Unseeable8710/Noteflight-Tuplet-Improver/raw/refs/heads/main/src/NoteflightTupletImprover.user.js
 // ==/UserScript==
 
 (function() {
