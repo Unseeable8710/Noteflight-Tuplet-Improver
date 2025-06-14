@@ -14,13 +14,13 @@ Noteflight only gives you the option to make tuplets with up to 7 notes, but if 
 
 * Original code:
 
-* Author: [Regan K. Zieber](https://www.noteflight.com/profile/c084acc39b9c0b288998471c7d69db95605d4134)
-* Source: [INTERSTELLAR (Virtuoso Piano Arrangement)](https://www.noteflight.com/music/titles/2bd57ed5-2258-4cee-92a6-3c79be21f320/interstellar-virtuoso-piano-arrangement) (the code is in one of Regan's comments)
+  * Author: [Regan K. Zieber](https://www.noteflight.com/profile/c084acc39b9c0b288998471c7d69db95605d4134)
+  * Source: [INTERSTELLAR (Virtuoso Piano Arrangement)](https://www.noteflight.com/music/titles/2bd57ed5-2258-4cee-92a6-3c79be21f320/interstellar-virtuoso-piano-arrangement) (the code is in one of Regan's comments)
 
 * Variable/constant finder:
 
-* GitHub Gist: https://gist.github.com/chrisjhoughton/7890239
-* The code I used: https://gist.github.com/chrisjhoughton/7890239?permalink\_comment\_id=3299151#gistcomment-3299151
+  * GitHub Gist: https://gist.github.com/chrisjhoughton/7890239
+  * The code I used: https://gist.github.com/chrisjhoughton/7890239?permalink\_comment\_id=3299151#gistcomment-3299151
 
 # Extra stuff
 
