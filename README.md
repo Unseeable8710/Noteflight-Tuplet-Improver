@@ -4,7 +4,7 @@ Noteflight only gives you the option to make tuplets with up to 7 notes, but if 
 
 # How to use
 
-1. Install the userscript by choosing a version from the releases page of this repo.
+1. Install the userscript by choosing a version from the releases page of this repo or downloading it from [Greasy Fork](https://greasyfork.org/en/scripts/539438-noteflight-tuplet-improver).
 2. Select the note or rest you want to turn into a tuplet.
 3. In the Rhythm palette, click the septuplet button.
 4. Enter the number of notes you want in the dialog that will open.
